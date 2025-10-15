@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EstructuraDinamicaG6
 {
-    public partial class Form1 : Form
+    public partial class FrmPilaAL : Form
     {
-        public Form1()
+        public FrmPilaAL()
         {
             InitializeComponent();
         }
