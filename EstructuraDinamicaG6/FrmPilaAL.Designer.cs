@@ -32,6 +32,8 @@
             this.btnAgregar = new System.Windows.Forms.Button();
             this.tbEdad = new System.Windows.Forms.TextBox();
             this.lblEdades = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -68,11 +70,31 @@
             this.lblEdades.TabIndex = 3;
             this.lblEdades.Text = "Edades";
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(496, 63);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(81, 32);
+            this.button2.TabIndex = 5;
+            this.button2.Text = " Mostrar último";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(366, 63);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(81, 32);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "Sacar";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
             // FrmPilaAL
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(454, 632);
+            this.ClientSize = new System.Drawing.Size(713, 632);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.lblEdades);
             this.Controls.Add(this.tbEdad);
             this.Controls.Add(this.btnAgregar);
@@ -90,6 +112,8 @@
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.TextBox tbEdad;
         private System.Windows.Forms.Label lblEdades;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 

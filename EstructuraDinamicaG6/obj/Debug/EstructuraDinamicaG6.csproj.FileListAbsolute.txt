@@ -1,0 +1,10 @@
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\bin\Debug\EstructuraDinamicaG6.exe.config
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\bin\Debug\EstructuraDinamicaG6.exe
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\bin\Debug\EstructuraDinamicaG6.pdb
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.csproj.AssemblyReference.cache
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.FrmPilaAL.resources
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.Properties.Resources.resources
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.csproj.GenerateResource.cache
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.csproj.CoreCompileInputs.cache
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.exe
+C:\Users\erick\Source\Repos\EstructurasDinamicas\EstructuraDinamicaG6\obj\Debug\EstructuraDinamicaG6.pdb
